@@ -117,7 +117,7 @@ The orientation of a face relative to the camera can also affect what facial fea
 
 Before you apply face detection to an image, if you want to change any of the face detector's default settings, specify those settings with a FirebaseVisionFaceDetectorOptions object. You can change the following settings:
 
-![](https://github.com/Rishit-dagli/MLKit-Firebase/blob/master/images/firebase%20face%20settings.JPG)
+
 
 For example:
 
@@ -533,16 +533,3 @@ If the face recognition operation succeeds, a list of FirebaseVisionFace objects
           }
       }
       
- ### Examples
- 
- 1. Countour detection-
- 
- ![](https://github.com/Rishit-dagli/MLKit-Firebase/blob/master/images/face_contours.svg)
-
-2. Face + Emotion detection -
-
-![](https://github.com/Rishit-dagli/MLKit-Firebase/blob/master/images/face%20detection%20example.jpeg)
-
-## What next! 
-
-You can contribute to this project, all you need to do is submit a pull request. Be sure to first read [CONTRIBUTING.md](https://github.com/Rishit-dagli/MLKit-Firebase-Android/blob/master/CONTRIBUTING.md).
