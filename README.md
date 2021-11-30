@@ -37,7 +37,7 @@ ML Kit is a mobile SDK that brings Google's machine learning expertise to Androi
 
 Watch this video for a better understanding-
 
-[![youtube.com/watch?v=ejrn_JHksws](http://img.youtube.com/vi/ejrn_JHksws/0.jpg)](http://www.youtube.com/watch?v=ejrn_JHksws "Introducing ML Kit")
+
 
 ## Key capabilities
 
